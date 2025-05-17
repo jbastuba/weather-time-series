@@ -9,4 +9,4 @@ The electric power distribution problem is the distribution of electricity to di
 
 Specifically, the dataset combines short-term periodical patterns, long-term periodical patterns, long-term trends, and many irregular patterns. The dataset are obtained from 2 Electricity Transformers at 2 stations and come in an 1H (hourly) or 15T (15-minute) frequency containing 2 year * 365 days * 24 hours * (4 for 15T) times = 17,520 (70,080 for 15T) data points.
 
-Will create an LSTM model and 1D CNN and compare results between
+**Will create an LSTM model and 1D CNN and compare results between**
